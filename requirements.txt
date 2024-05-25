@@ -1,0 +1,12 @@
+pandas
+numpy
+openai
+dotenv-python
+langchain
+seaborn
+matplotlib
+groq
+langchain_groq
+scikit-learn
+
+
