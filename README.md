@@ -9,6 +9,5 @@ Text classification using zero-shot prompting. Text classification is crucial fo
 
 ## Results and Interpretations - Accuracy, Precision, Recall, and F1 Score
 
-We have conducted tests using a 500-sample dataset to evaluate the performance of each model. Below is a summary of our findings presented through various metrics
-
+We have conducted tests using a 500-sample dataset to evaluate the performance of each model. 
 
