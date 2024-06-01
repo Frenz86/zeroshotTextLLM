@@ -9,7 +9,7 @@ Classificazione testuale utilizzando il prompting zero-shot. La classificazione 
 - Dimostrare l'applicazione dell'apprendimento zero-shot in dataset del mondo reale.
 - Risultati e Interpretazioni - Accuratezza, Precisione, Recall e F1-Score
 
-Ho condotto il test utilizzando un sample di 500 campioni per valutare le prestazioni di ciascun modello.
+Ho condotto il test utilizzando un sample di 500 observations per valutare le prestazioni di ciascun modello.
 
 Per eseguirlo:
 rinominare .env.example in .env con il tuo token (fornito da Groq e OpenAI)
