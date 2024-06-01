@@ -1,13 +1,15 @@
-# Zero-Shot - Text Classification with Large Language Models
 
-Text classification using zero-shot prompting. Text classification is crucial for organizing information, enhancing search engines, and improving user interaction. Our study uses the [BBC News Dataset](https://www.kaggle.com/datasets/pariza/bbc-news-summary) categorizing news articles into Business, Technology, Sports, Politics, and Entertainment.
+# Zero-Shot - Classificazione Testuale con Grandi Modelli di Linguaggio
+Classificazione testuale utilizzando il prompting zero-shot. La classificazione testuale è cruciale per organizzare le informazioni, migliorare i motori di ricerca e ottimizzare l'interazione con gli utenti. Il nostro studio utilizza il BBC News Dataset 
+[BBC News Dataset](https://www.kaggle.com/datasets/pariza/bbc-news-summary) per classificare i documents in Business, Technology, Sports, Politics, and Entertainment ed ho aggiunto anche la categoria others
 
-**Key Objectives:**
+## Obiettivi Principali:
 
-- To benchmark the performance of various LLMs.
-- To demonstrate the application of zero-shot learning in real-world datasets.
+- Valutare le prestazioni di vari LLM.
+- Dimostrare l'applicazione dell'apprendimento zero-shot in dataset del mondo reale.
+- Risultati e Interpretazioni - Accuratezza, Precisione, Recall e F1-Score
 
-## Results and Interpretations - Accuracy, Precision, Recall, and F1 Score
+Ho condotto il test utilizzando un sample di 500 campioni per valutare le prestazioni di ciascun modello.
 
-We have conducted tests using a 500-sample dataset to evaluate the performance of each model. 
-
+Per eseguirlo:
+rinominare .env.example in .env con il tuo token (fornito da Groq e OpenAI)
